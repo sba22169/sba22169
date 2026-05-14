@@ -6,15 +6,6 @@ data pipeline engineering, and AI integration.
 
 ## 🔬 What I Work On
 
-**Reporting Automation**
-Built a universal Python reporting pipeline — 4,500 lines across 53 functions —
-reducing report turnaround from 1.5 days to 3 hours. 
-Integrating local LLM models for accurate translation and sentiment. Eliminated dependency on 
-third-party stats tools (e.g. SPSS) entirely. Uses an HDF5-based / SPSS filesystem for 
-intermediate dataframe storage, traceability, and debugging.
-Migrate to datalake integration.
-Insights summeries and customer recommendations
-
 **AI Integration**
 Designed and deployed a local LLM stack using Ollama for on-premise inference,
 enabling private, cost-effective AI capabilities without reliance on external APIs.
@@ -26,6 +17,15 @@ open-ended survey responses and sentiment analysis.
 Developed Claude-based agents for task automation and internal knowledge workflows.
 Currently scoping data lake integration to extend AI-driven insight generation 
 across historical datasets.
+
+**Reporting Automation**
+Built a universal Python reporting pipeline — 4,500 lines across 53 functions —
+reducing report turnaround from 1.5 days to 3 hours. 
+Integrating local LLM models for accurate translation and sentiment. Eliminated dependency on 
+third-party stats tools (e.g. SPSS) entirely. Uses an HDF5-based / SPSS filesystem for 
+intermediate dataframe storage, traceability, and debugging.
+Migrate to datalake integration.
+Insights summeries and customer recommendations
 
 **Quality Control Engineering**
 QC built into every function — N count validation, encoding error flagging, 
