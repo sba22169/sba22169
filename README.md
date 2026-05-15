@@ -48,7 +48,8 @@ Database Variable mapping
 ## 🛠️ Tech Stack
 
 **Languages:** Python (Pandas, Scikit-learn, CatBoost, SciPy, 
-Statsmodels, openpyxl), SQL, R  
+Statsmodels, openpyxl), SQL (CTEs, PIVOT, composite key joins, 
+view-based ETL), R
 **Tools:** Git, Jupyter, Anaconda, HDF5 (PyTables), AWS, MLflow, 
 PyCharm, DataGrip, SSMS, SQLAlchemy  
 **Methods:** ML, Time-Series Analysis, Statistical Modelling, 
