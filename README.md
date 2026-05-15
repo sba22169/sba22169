@@ -18,14 +18,15 @@ Developed Claude-based agents for task automation and internal knowledge workflo
 Currently scoping data lake integration to extend AI-driven insight generation 
 across historical datasets.
 
-**Reporting Automation**
+**Survey Analysis Pipeline**
 Built a universal Python reporting pipeline — 4,500 lines across 53 functions —
-reducing report turnaround from 1.5 days to 3 hours. 
-Integrating local LLM models for accurate translation and sentiment. Eliminated dependency on 
-third-party stats tools (e.g. SPSS) entirely. Uses an HDF5-based / SPSS filesystem for 
-intermediate dataframe storage, traceability, and debugging.
-Migrate to datalake integration.
-Insights summeries and customer recommendations
+covering the full sensory research workflow: data ingestion, QC, statistical 
+testing (Mann-Whitney U, Fisher's Exact, McNemar's), JAR and CATA penalty 
+analysis, multicollinearity diagnosis (Condition Index), driver analysis 
+(Linear Regression, Johnson's Relative Weights, Random Forest, Lasso), 
+and multilingual open-end translation via Google Translate API.
+Reduced report turnaround from 1.5 days to 3 hours. Eliminated dependency 
+on SPSS entirely.
 
 **Quality Control Engineering**
 QC built into every function — N count validation, encoding error flagging, 
