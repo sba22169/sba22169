@@ -47,11 +47,14 @@ Database Variable mapping
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python (Pandas, Scikit-learn, CatBoost), SQL, R  
-**Tools:** Git, Jupyter, Anaconda, HDF5, AWS , mlFlow, PyCharm , DataGrip , SSMS, SQLAlchemy 
-**Methods:** ML, Time-Series Analysis, Statistical Modelling, ETL, 
-Data Visualisation, Sensory Data Analysis
-**AI Integration** Ollama, Claude Agents , n8n / Pinecone
+**Languages:** Python (Pandas, Scikit-learn, CatBoost, SciPy, 
+Statsmodels, openpyxl), SQL, R  
+**Tools:** Git, Jupyter, Anaconda, HDF5 (PyTables), AWS, MLflow, 
+PyCharm, DataGrip, SSMS, SQLAlchemy  
+**Methods:** ML, Time-Series Analysis, Statistical Modelling, 
+Sensory Data Analysis (JAR, CATA, Driver Analysis), ETL, 
+Data Visualisation, Multilingual NLP  
+**AI Integration:** Ollama, Claude Agents, n8n / Pinecone
 
 ## 🎓 Background
 
