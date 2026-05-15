@@ -56,7 +56,7 @@ Data Visualisation, Sensory Data Analysis
 
 - MSc Data Analytics  
 - BEng Electronic Engineering  
-- 2+ years applied data science and ML delivery in market research
+- 4+ years applied data science and ML delivery in market research
 
 ## 📫 Connect
 
