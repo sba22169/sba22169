@@ -65,4 +65,4 @@ Data Visualisation, Multilingual NLP
 
 ## 📫 Connect
 
-[LinkedIn](your-linkedin-url-here)
+[LinkedIn](https://www.linkedin.com/in/ambrose-desmond)
